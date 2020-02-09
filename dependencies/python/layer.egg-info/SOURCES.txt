@@ -1,0 +1,8 @@
+setup.py
+layer/__init__.py
+layer/demo.py
+layer.egg-info/PKG-INFO
+layer.egg-info/SOURCES.txt
+layer.egg-info/dependency_links.txt
+layer.egg-info/requires.txt
+layer.egg-info/top_level.txt
